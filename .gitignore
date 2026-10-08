@@ -1,7 +1,6 @@
 # Share only stable, vault-wide Obsidian settings.
 .obsidian/*
 !.obsidian/app.json
-!.obsidian/community-plugins.json
 
 # Local Obsidian and operating-system files.
 .trash/
