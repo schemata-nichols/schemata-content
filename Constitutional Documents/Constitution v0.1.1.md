@@ -1,6 +1,7 @@
 ---
-title: Constitution Draft of Schemata, v0.1.1
+title: Constitution v0.1.1
 ---
+> The content below (excluding this callout) is the document, starting from the first H1 title. [This](https://docs.google.com/document/d/1asCLkfRxFOLV6b-nI5Rm6M5ny_Gf8f_CM8taqmLdjaQ/edit?tab=t.0#heading=h.442udxgf7ayy) is the link to its corresponding Google Doc, if you have access to. 
 # Constitution of Schemata
 
 **Draft v0.1.1**
